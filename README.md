@@ -84,7 +84,7 @@ This project was done as part of Udacity's Nanodegree - Programming for Data Sci
 
 ### What Softwares Do I Need?
 
-To complete this project, i'll require the following softwares:
+To complete this project, you will require the following softwares:
 
 Python
 A text editor, like Sublime or Atom
