@@ -29,3 +29,7 @@ The libraries used in the project include: time, pandas, numpy, and datetime.
 ### Credits
 
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
+
+### Version Updates
+
+Readme file is been updated for the improving documentation.
