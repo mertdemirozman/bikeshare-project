@@ -32,6 +32,28 @@ The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year
 
+### Questions Explored
+
+The script answers the following questions about the bike share data:
+
+Popular times of travel
+
+What is the most popular month for start time?
+What is the most popular day of week (Monday, Tuesday, etc.) for start time?
+What is the most popular hour of day for start time?
+Popular stations and trip
+
+What is the most popular start station and most popular end station?
+What is the most popular trip?
+Trip duration
+
+What is the total trip duration and average trip duration?
+User information
+
+What are the counts of each user type?
+What are the counts of gender? (only available for NYC and Chicago)
+What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
+
 ### Libraries Used
 
 The libraries used in the project include: time, pandas, numpy, and datetime.
