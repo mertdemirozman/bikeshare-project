@@ -80,7 +80,6 @@ The libraries used in the project include: time, pandas, numpy, and datetime.
 
 ### Credits
 
-<<<<<<< HEAD
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
 
 ### What Softwares Do I Need?
@@ -98,12 +97,10 @@ Readme file is been updated for the improving documentation.
 ### Special Thanks
 
 I would like to thank the Udacity team. This project is very helpful to introduction data science and people who will give reviews are very helpful and teachful. They were always replies very short time and the feedbacks are always for the showing the road. I will recommend the Udacity for people who wants to learn programming for data science. Thanks!
-||||||| f068f8a
-This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
-=======
+
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
 
 ### Version Updates
 
 Readme file is been updated for the improving documentation.
->>>>>>> documentation
+
