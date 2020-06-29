@@ -8,6 +8,16 @@ US Bikeshare Data Udacity Project
 
 In this project,Using Python to explore data related to bike share systems for  Chicago, New York City, and Washington. Data provided by udacity is imported and interesting quesstions regarding to data is answered. Users can filter the data by day, month or both. 
 
+### How to Use
+
+This repository contains-
+
+One python file written to assess the data in the csv files- bikeshare.py.
+To use the project-
+
+Place the bikeshare.py file and all the CSV files in the same folder.
+Run the python file using a suitable python interpreter.
+
 ### Files Used
 
 Randomly selected data for the first six months of 2017 are provided for all three cities in .csv format ('chicago.csv'; 'new_york_city.csv'; 'washington.csv'). All three of the data files contain the same core six (6) columns:
