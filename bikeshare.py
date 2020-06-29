@@ -237,7 +237,13 @@ def user_stats(df):
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
+<<<<<<< HEAD
 	print(' Warning! There is no gender and birthday data for Washington. Please select other cities.')
+||||||| 3751168
+
+=======
+	print('Warning! There is no data for Washington City')
+>>>>>>> refactoring
     # TO DO: Display counts of user types
     print()
     types_of_users = df.groupby('User Type',as_index=False).count()
